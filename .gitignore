@@ -1,0 +1,9 @@
+.vscode
+.git
+
+env/
+
+**/__pycache__/**
+**/node_modules/**
+
+backend/migrations
